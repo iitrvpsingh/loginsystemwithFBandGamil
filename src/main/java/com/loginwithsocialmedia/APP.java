@@ -1,11 +1,11 @@
-package com.test.loginwithsocialmedia;
+package com.loginwithsocialmedia;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan("com.test")
+@ComponentScan("com.loginwithsocialmedia")
 public class APP {
 
 	public static void main(String[] args) {
